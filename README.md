@@ -11,7 +11,7 @@ The script, `automation_script.py`, takes a list of tasks as input and provides 
 The script offers two methods for providing input:
 
 1.  **Manual Console Input**: The user can type their tasks directly into the console one by one.
-2.  **File Input**: The script can read tasks from a text file named `tasks.txt` located in the same directory. Each task should be on a new line.
+2.  **File Input**: The script can read tasks from a text file named `task.txt` located in the same directory. Each task should be on a new line.
 
 After receiving the list of tasks, the script performs an alphabetical sort (case insensitive) and prints the ordered list to the console.
 
